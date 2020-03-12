@@ -1,5 +1,5 @@
 
-# JavaScript30 Excercises
+# JavaScript30 Exercises
 
 This repository contains the exercises for the JavaScript30 course, created by Wes Bos.
 
